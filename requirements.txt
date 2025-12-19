@@ -1,6 +1,6 @@
-streamlit
-pymongo
-langchain
-langchain-google-genai
-langchain-mongodb
-python-dotenv
+langchain-google-genai==4.1.1
+langchain-huggingface==1.2.0
+langchain-mongodb==0.9.0
+sentence-transformers==5.2.0
+streamlit==1.52.1
+pymonogo==4.15.5
